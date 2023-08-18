@@ -1,0 +1,13 @@
+body {
+    background-color: tomato;
+}
+
+img {
+    height: 50rem;
+    width: 30rem;
+}
+
+.albumsPictures {
+    height: 30rem;
+    width: 30rem;
+}
